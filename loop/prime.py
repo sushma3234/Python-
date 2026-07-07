@@ -15,3 +15,12 @@ else:
         print("Prime Number")
     else:
         print("Not a Prime Number")
+
+
+
+
+
+
+
+
+        
