@@ -1,0 +1,8 @@
+Name: Ram
+Age: 20
+Course: Python
+City: Kathmandu
+City: Kathmandu
+City: Kathmandu
+City: Kathmandu
+City: Kathmandu

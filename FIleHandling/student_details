@@ -1,0 +1,10 @@
+name = input("Enter name: ")
+age = input("Enter age: ")
+marks = input("Enter marks: ")
+
+with open("students.txt", "a") as file:
+    file.write(
+        f"Name: {name}, Age: {age}, Marks: {marks}\n"
+    )
+
+print("Student record saved")
