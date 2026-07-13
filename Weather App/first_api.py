@@ -11,3 +11,7 @@ temperature = data["current"]["temperature_2m"]
 print("Current Temperature:", temperature, "°C")
 
 print(data)
+
+
+
+  
